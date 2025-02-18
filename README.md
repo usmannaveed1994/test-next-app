@@ -1,3 +1,15 @@
+<h1><span style="color: #dd85b0">Landing</span> <span style="color: #a1c7ea">Page</span> <span style="color: #ffe69c">Next.js</span></h1>
+
+<h4 style="color: #cfc2f1">Desktop</h4>
+
+![Desktop View](./public/screenshots/screenshot1.png)
+
+<h4 style="color: #cfc2f1">Mobile</h4>
+
+![Desktop View](./public/screenshots/screenshot2.png)
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
